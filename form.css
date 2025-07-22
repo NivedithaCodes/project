@@ -1,0 +1,103 @@
+ 
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sub-btn{
+    background: #4267b2;
+    color:white;
+    height:20px;
+    border-color:#29487d;
+    cursor:pointer; 
+}
+.sub-btn:hover{
+    background: red;
+}
+
+.right-section{
+    width:39%;
+    float:left;
+    padding-top: 18px;
+}
+.main-body{
+    background-color:linear-gradient(white,#D3D8E8);
+    width:100%;
+    height:500px;
+}
+ 
+.p1{
+    font-weight: bold;
+    font-size: 27px;
+} 
+h1{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.p2{
+    margin-top: -10px;
+}
+
+.t1 {
+    border: solid 1px;
+    border-color: grey;
+    height:33px;
+    width:200px;
+} 
+.t2 {
+    border: solid 1px;
+    border-color: grey;
+    height: 33px;
+    margin-left:7px;
+    width:200px;
+} 
+.contact-method {
+    border: solid 1px;
+    border-color: grey;
+    height:33px;
+    width: 417px;
+    margin-top:15px
+} 
+#password{
+    border: solid 1px;
+    border-color: grey;
+    height:33px;
+    width: 417px;
+    margin-top:15px; 
+} 
+#confirmpassword{
+        border: solid 1px;
+        border-color: grey;
+        height:33px;
+        width: 417px;
+        margin-top:15px; 
+}
+.bday{
+    padding-top:0%;
+    margin-top: 10px;
+    margin-bottom:0px;
+}
+.bday-op{
+    margin-top:2px;
+    margin-bottom:20px;
+}
+ .signup{
+        background: none;
+        background-color: #00a400;
+        border: none;
+        border-radius: 6px;
+        box-shadow: none;
+        color: #fff;
+        font-size: 18px;
+        font-weight: 600;
+        width: 195px;
+        height: 36px;
+        overflow: hidden;
+        padding: 0 32px;
+        text-shadow: none;
+        cursor: pointer;
+        }
+.signup:hover{
+        background-color: #45a049;
+}
